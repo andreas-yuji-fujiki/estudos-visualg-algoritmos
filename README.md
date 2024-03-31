@@ -1,2 +1,16 @@
-# estudos-visualg-algoritmos
-Este repositório é dedicado aos meus estudos e práticas em algoritmos utilizando VisualG. Aqui você encontrará uma coleção de códigos, exercícios resolvidos e desafios enfrentados durante minha jornada de aprendizado em algoritmos. Sinta-se à vontade para explorar!
+# VisualG Algorithms Repository
+
+Este repositório contém uma coleção de estudos, práticas e projetos relacionados a algoritmos implementados em VisualG.
+
+## Sobre
+
+VisualG é uma ferramenta que auxilia no aprendizado de algoritmos e lógica de programação através de uma linguagem de programação visual simplificada. Este repositório serve como um espaço para armazenar e compartilhar meus estudos e projetos em VisualG.
+
+## Estrutura do Repositório
+
+- `exercicios`: Este diretório contém uma variedade de exercícios resolvidos em VisualG.
+- `referencias`: Esta pasta contém referências úteis, como manuais e guias de VisualG.
+
+## Licença
+
+Este repositório é distribuído sob a licença [MIT](LICENSE).
