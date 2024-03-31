@@ -1,6 +1,6 @@
 # VisualG Algorithms Repository
 
-Este repositório contém uma coleção de estudos, práticas e projetos relacionados a algoritmos implementados em VisualG.
+Este repositório contém uma coleção de estudos e práticas relacionados a algoritmos implementados em VisualG.
 
 ## Sobre
 
